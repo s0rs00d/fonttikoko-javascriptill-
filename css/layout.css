@@ -1,0 +1,54 @@
+
+html {
+    font-size: 62.5%;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 1rem;
+}
+
+body {
+    padding: 1rem;
+}
+
+section {
+    background-color: #F2EFEF;
+    padding: 2rem;
+    border:none;
+    border-radius: 1.5rem;
+}
+
+h1 {
+    font-size: 1.8rem;
+    font-weight: bold;
+    padding-bottom: 1rem;
+}
+
+ol {
+    font-size: 1.6rem;
+    list-style: decimal;
+    padding: 0.5rem;
+    margin: 1rem;
+}
+ol li {
+    margin-left: 40px;
+}
+
+p {
+    font-size: 1.6rem;
+    padding-top: 0.5rem;
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+}
+
+#nappi {
+    background-color: #483C8A;
+    color:white;
+    padding: 0.5rem;
+    border-radius: 0.3rem;
+}
+
+#nappi2 {
+    background-color: #483C8A;
+    color:white;
+    padding: 0.5rem;
+    border-radius: 0.3rem;
+}
